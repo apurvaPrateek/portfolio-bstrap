@@ -35,7 +35,7 @@ p, h3{
 }
 
 .bg-image{
-    background-image: url("/images/mountain.jpg");
+    background-image: url("./images/mountain.jpg");
     background-repeat: no-repeat;
   background-size: 100%;
     padding-top: 20vh!important;
